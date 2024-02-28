@@ -1,3 +1,3 @@
 # QRGenerator
-#live project
-https://qr-generator-kohl.vercel.app/
+- #live project
+- https://qr-generator-kohl.vercel.app/
